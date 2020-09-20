@@ -1,0 +1,29 @@
+.hello {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    border: solid black;
+    flood-color: red;
+    margin: 3px;
+}
+
+.controls {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+button {
+    margin: 20px;
+}
+
+.bg {
+    background-color: crimson;
+    color: darkgreen;
+}
+
+.bd {
+    border: 20px solid royalblue;
+}
